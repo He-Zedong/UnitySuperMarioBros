@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Source\Scripts\StateMachine\AI.cs">
+    <Files>
+      <File FileName="Assets\Source\Scripts\PlayerCharacter.cs" Line="46" Column="40" />
+      <File FileName="Assets\Source\Scripts\StateMachine\StateMachine.cs" Line="47" Column="45" />
+      <File FileName="Assets\Source\Scripts\StateMachine\AI.cs" Line="85" Column="3" />
+      <File FileName="Assets\Source\Scripts\StateMachine\BigMario.cs" Line="37" Column="46" />
+      <File FileName="Assets\Source\Scripts\StateMachine\SmallMario.cs" Line="46" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

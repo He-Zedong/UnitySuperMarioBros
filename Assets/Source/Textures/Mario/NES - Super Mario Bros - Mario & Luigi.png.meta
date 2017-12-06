@@ -1,0 +1,3196 @@
+fileFormatVersion: 2
+guid: 9460ffd57c7065e469ecf0da01ba75fa
+timeCreated: 1511514578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run01
+    21300002: Idle
+    21300004: NES - Super Mario Bros - Mario & Luigi_2
+    21300006: NES - Super Mario Bros - Mario & Luigi_3
+    21300008: NES - Super Mario Bros - Mario & Luigi_4
+    21300010: NES - Super Mario Bros - Mario & Luigi_5
+    21300012: NES - Super Mario Bros - Mario & Luigi_6
+    21300014: NES - Super Mario Bros - Mario & Luigi_7
+    21300016: NES - Super Mario Bros - Mario & Luigi_8
+    21300018: NES - Super Mario Bros - Mario & Luigi_9
+    21300020: NES - Super Mario Bros - Mario & Luigi_10
+    21300022: NES - Super Mario Bros - Mario & Luigi_11
+    21300024: NES - Super Mario Bros - Mario & Luigi_12
+    21300026: NES - Super Mario Bros - Mario & Luigi_13
+    21300028: NES - Super Mario Bros - Mario & Luigi_14
+    21300030: NES - Super Mario Bros - Mario & Luigi_15
+    21300032: NES - Super Mario Bros - Mario & Luigi_16
+    21300034: NES - Super Mario Bros - Mario & Luigi_17
+    21300036: NES - Super Mario Bros - Mario & Luigi_18
+    21300038: NES - Super Mario Bros - Mario & Luigi_19
+    21300040: NES - Super Mario Bros - Mario & Luigi_20
+    21300042: NES - Super Mario Bros - Mario & Luigi_21
+    21300044: NES - Super Mario Bros - Mario & Luigi_22
+    21300046: NES - Super Mario Bros - Mario & Luigi_23
+    21300048: Run01
+    21300050: Test
+    21300052: NES - Super Mario Bros - Mario & Luigi_26
+    21300054: NES - Super Mario Bros - Mario & Luigi_27
+    21300056: NES - Super Mario Bros - Mario & Luigi_28
+    21300058: NES - Super Mario Bros - Mario & Luigi_29
+    21300060: NES - Super Mario Bros - Mario & Luigi_30
+    21300062: NES - Super Mario Bros - Mario & Luigi_31
+    21300064: NES - Super Mario Bros - Mario & Luigi_32
+    21300066: NES - Super Mario Bros - Mario & Luigi_33
+    21300068: NES - Super Mario Bros - Mario & Luigi_34
+    21300070: NES - Super Mario Bros - Mario & Luigi_35
+    21300072: NES - Super Mario Bros - Mario & Luigi_36
+    21300074: NES - Super Mario Bros - Mario & Luigi_37
+    21300076: NES - Super Mario Bros - Mario & Luigi_38
+    21300078: NES - Super Mario Bros - Mario & Luigi_39
+    21300080: NES - Super Mario Bros - Mario & Luigi_40
+    21300082: NES - Super Mario Bros - Mario & Luigi_41
+    21300084: NES - Super Mario Bros - Mario & Luigi_42
+    21300086: NES - Super Mario Bros - Mario & Luigi_43
+    21300088: NES - Super Mario Bros - Mario & Luigi_44
+    21300090: NES - Super Mario Bros - Mario & Luigi_45
+    21300092: NES - Super Mario Bros - Mario & Luigi_46
+    21300094: NES - Super Mario Bros - Mario & Luigi_47
+    21300096: NES - Super Mario Bros - Mario & Luigi_48
+    21300098: NES - Super Mario Bros - Mario & Luigi_49
+    21300100: NES - Super Mario Bros - Mario & Luigi_50
+    21300102: NES - Super Mario Bros - Mario & Luigi_51
+    21300104: NES - Super Mario Bros - Mario & Luigi_52
+    21300106: NES - Super Mario Bros - Mario & Luigi_53
+    21300108: NES - Super Mario Bros - Mario & Luigi_54
+    21300110: NES - Super Mario Bros - Mario & Luigi_55
+    21300112: NES - Super Mario Bros - Mario & Luigi_56
+    21300114: NES - Super Mario Bros - Mario & Luigi_57
+    21300116: NES - Super Mario Bros - Mario & Luigi_58
+    21300118: NES - Super Mario Bros - Mario & Luigi_59
+    21300120: NES - Super Mario Bros - Mario & Luigi_60
+    21300122: NES - Super Mario Bros - Mario & Luigi_61
+    21300124: NES - Super Mario Bros - Mario & Luigi_62
+    21300126: NES - Super Mario Bros - Mario & Luigi_63
+    21300128: NES - Super Mario Bros - Mario & Luigi_64
+    21300130: NES - Super Mario Bros - Mario & Luigi_65
+    21300132: NES - Super Mario Bros - Mario & Luigi_66
+    21300134: NES - Super Mario Bros - Mario & Luigi_67
+    21300136: NES - Super Mario Bros - Mario & Luigi_68
+    21300138: NES - Super Mario Bros - Mario & Luigi_69
+    21300140: NES - Super Mario Bros - Mario & Luigi_70
+    21300142: NES - Super Mario Bros - Mario & Luigi_71
+    21300144: NES - Super Mario Bros - Mario & Luigi_72
+    21300146: NES - Super Mario Bros - Mario & Luigi_73
+    21300148: NES - Super Mario Bros - Mario & Luigi_74
+    21300150: NES - Super Mario Bros - Mario & Luigi_75
+    21300152: NES - Super Mario Bros - Mario & Luigi_76
+    21300154: NES - Super Mario Bros - Mario & Luigi_77
+    21300156: NES - Super Mario Bros - Mario & Luigi_78
+    21300158: NES - Super Mario Bros - Mario & Luigi_79
+    21300160: NES - Super Mario Bros - Mario & Luigi_80
+    21300162: NES - Super Mario Bros - Mario & Luigi_81
+    21300164: NES - Super Mario Bros - Mario & Luigi_82
+    21300166: NES - Super Mario Bros - Mario & Luigi_83
+    21300168: NES - Super Mario Bros - Mario & Luigi_84
+    21300170: NES - Super Mario Bros - Mario & Luigi_85
+    21300172: NES - Super Mario Bros - Mario & Luigi_86
+    21300174: NES - Super Mario Bros - Mario & Luigi_87
+    21300176: NES - Super Mario Bros - Mario & Luigi_88
+    21300178: NES - Super Mario Bros - Mario & Luigi_89
+    21300180: NES - Super Mario Bros - Mario & Luigi_90
+    21300182: NES - Super Mario Bros - Mario & Luigi_91
+    21300184: NES - Super Mario Bros - Mario & Luigi_92
+    21300186: NES - Super Mario Bros - Mario & Luigi_93
+    21300188: NES - Super Mario Bros - Mario & Luigi_94
+    21300190: NES - Super Mario Bros - Mario & Luigi_95
+    21300192: NES - Super Mario Bros - Mario & Luigi_96
+    21300194: NES - Super Mario Bros - Mario & Luigi_97
+    21300196: NES - Super Mario Bros - Mario & Luigi_98
+    21300198: NES - Super Mario Bros - Mario & Luigi_99
+    21300200: NES - Super Mario Bros - Mario & Luigi_100
+    21300202: NES - Super Mario Bros - Mario & Luigi_101
+    21300204: NES - Super Mario Bros - Mario & Luigi_102
+    21300206: NES - Super Mario Bros - Mario & Luigi_103
+    21300208: NES - Super Mario Bros - Mario & Luigi_104
+    21300210: NES - Super Mario Bros - Mario & Luigi_105
+    21300212: NES - Super Mario Bros - Mario & Luigi_106
+    21300214: NES - Super Mario Bros - Mario & Luigi_107
+    21300216: NES - Super Mario Bros - Mario & Luigi_108
+    21300218: NES - Super Mario Bros - Mario & Luigi_109
+    21300220: NES - Super Mario Bros - Mario & Luigi_110
+    21300222: NES - Super Mario Bros - Mario & Luigi_111
+    21300224: NES - Super Mario Bros - Mario & Luigi_112
+    21300226: NES - Super Mario Bros - Mario & Luigi_113
+    21300228: NES - Super Mario Bros - Mario & Luigi_114
+    21300230: NES - Super Mario Bros - Mario & Luigi_115
+    21300232: NES - Super Mario Bros - Mario & Luigi_116
+    21300234: NES - Super Mario Bros - Mario & Luigi_117
+    21300236: NES - Super Mario Bros - Mario & Luigi_118
+    21300238: NES - Super Mario Bros - Mario & Luigi_119
+    21300240: NES - Super Mario Bros - Mario & Luigi_120
+    21300242: NES - Super Mario Bros - Mario & Luigi_121
+    21300244: NES - Super Mario Bros - Mario & Luigi_122
+    21300246: NES - Super Mario Bros - Mario & Luigi_123
+    21300248: NES - Super Mario Bros - Mario & Luigi_124
+    21300250: NES - Super Mario Bros - Mario & Luigi_125
+    21300252: NES - Super Mario Bros - Mario & Luigi_126
+    21300254: NES - Super Mario Bros - Mario & Luigi_127
+    21300256: NES - Super Mario Bros - Mario & Luigi_128
+    21300258: NES - Super Mario Bros - Mario & Luigi_129
+    21300260: NES - Super Mario Bros - Mario & Luigi_130
+    21300262: NES - Super Mario Bros - Mario & Luigi_131
+    21300264: NES - Super Mario Bros - Mario & Luigi_132
+    21300266: NES - Super Mario Bros - Mario & Luigi_133
+    21300268: NES - Super Mario Bros - Mario & Luigi_134
+    21300270: NES - Super Mario Bros - Mario & Luigi_135
+    21300272: NES - Super Mario Bros - Mario & Luigi_136
+    21300274: NES - Super Mario Bros - Mario & Luigi_137
+    21300276: NES - Super Mario Bros - Mario & Luigi_138
+    21300278: NES - Super Mario Bros - Mario & Luigi_139
+    21300280: NES - Super Mario Bros - Mario & Luigi_140
+    21300282: NES - Super Mario Bros - Mario & Luigi_141
+    21300284: NES - Super Mario Bros - Mario & Luigi_142
+    21300286: NES - Super Mario Bros - Mario & Luigi_143
+    21300288: NES - Super Mario Bros - Mario & Luigi_144
+    21300290: NES - Super Mario Bros - Mario & Luigi_145
+    21300292: NES - Super Mario Bros - Mario & Luigi_146
+    21300294: NES - Super Mario Bros - Mario & Luigi_147
+    21300296: NES - Super Mario Bros - Mario & Luigi_148
+    21300298: NES - Super Mario Bros - Mario & Luigi_149
+    21300300: NES - Super Mario Bros - Mario & Luigi_150
+    21300302: NES - Super Mario Bros - Mario & Luigi_151
+    21300304: NES - Super Mario Bros - Mario & Luigi_152
+    21300306: NES - Super Mario Bros - Mario & Luigi_153
+    21300308: NES - Super Mario Bros - Mario & Luigi_154
+    21300310: NES - Super Mario Bros - Mario & Luigi_155
+    21300312: NES - Super Mario Bros - Mario & Luigi_156
+    21300314: NES - Super Mario Bros - Mario & Luigi_157
+    21300316: NES - Super Mario Bros - Mario & Luigi_158
+    21300318: NES - Super Mario Bros - Mario & Luigi_159
+    21300320: NES - Super Mario Bros - Mario & Luigi_160
+    21300322: NES - Super Mario Bros - Mario & Luigi_161
+    21300324: NES - Super Mario Bros - Mario & Luigi_162
+    21300326: NES - Super Mario Bros - Mario & Luigi_163
+    21300328: NES - Super Mario Bros - Mario & Luigi_164
+    21300330: NES - Super Mario Bros - Mario & Luigi_165
+    21300332: NES - Super Mario Bros - Mario & Luigi_166
+    21300334: NES - Super Mario Bros - Mario & Luigi_167
+    21300336: NES - Super Mario Bros - Mario & Luigi_168
+    21300338: NES - Super Mario Bros - Mario & Luigi_169
+    21300340: NES - Super Mario Bros - Mario & Luigi_170
+    21300342: NES - Super Mario Bros - Mario & Luigi_171
+    21300344: NES - Super Mario Bros - Mario & Luigi_172
+    21300346: NES - Super Mario Bros - Mario & Luigi_173
+    21300348: NES - Super Mario Bros - Mario & Luigi_174
+    21300350: NES - Super Mario Bros - Mario & Luigi_175
+    21300352: NES - Super Mario Bros - Mario & Luigi_176
+    21300354: NES - Super Mario Bros - Mario & Luigi_177
+    21300356: NES - Super Mario Bros - Mario & Luigi_178
+    21300358: NES - Super Mario Bros - Mario & Luigi_179
+    21300360: NES - Super Mario Bros - Mario & Luigi_180
+    21300362: NES - Super Mario Bros - Mario & Luigi_181
+    21300364: NES - Super Mario Bros - Mario & Luigi_182
+    21300366: NES - Super Mario Bros - Mario & Luigi_183
+    21300368: NES - Super Mario Bros - Mario & Luigi_184
+    21300370: NES - Super Mario Bros - Mario & Luigi_185
+    21300372: NES - Super Mario Bros - Mario & Luigi_186
+    21300374: NES - Super Mario Bros - Mario & Luigi_187
+    21300376: NES - Super Mario Bros - Mario & Luigi_188
+    21300378: NES - Super Mario Bros - Mario & Luigi_189
+    21300380: NES - Super Mario Bros - Mario & Luigi_190
+    21300382: NES - Super Mario Bros - Mario & Luigi_191
+    21300384: NES - Super Mario Bros - Mario & Luigi_192
+    21300386: NES - Super Mario Bros - Mario & Luigi_193
+    21300388: NES - Super Mario Bros - Mario & Luigi_194
+    21300390: NES - Super Mario Bros - Mario & Luigi_195
+    21300392: NES - Super Mario Bros - Mario & Luigi_196
+    21300394: NES - Super Mario Bros - Mario & Luigi_197
+    21300396: NES - Super Mario Bros - Mario & Luigi_198
+    21300398: NES - Super Mario Bros - Mario & Luigi_199
+    21300400: NES - Super Mario Bros - Mario & Luigi_200
+    21300402: NES - Super Mario Bros - Mario & Luigi_201
+    21300404: NES - Super Mario Bros - Mario & Luigi_202
+    21300406: NES - Super Mario Bros - Mario & Luigi_203
+    21300408: NES - Super Mario Bros - Mario & Luigi_204
+    21300410: NES - Super Mario Bros - Mario & Luigi_205
+    21300412: NES - Super Mario Bros - Mario & Luigi_206
+    21300414: NES - Super Mario Bros - Mario & Luigi_207
+    21300416: NES - Super Mario Bros - Mario & Luigi_208
+    21300418: NES - Super Mario Bros - Mario & Luigi_209
+    21300420: NES - Super Mario Bros - Mario & Luigi_210
+    21300422: NES - Super Mario Bros - Mario & Luigi_211
+    21300424: NES - Super Mario Bros - Mario & Luigi_212
+    21300426: NES - Super Mario Bros - Mario & Luigi_213
+    21300428: NES - Super Mario Bros - Mario & Luigi_214
+    21300430: NES - Super Mario Bros - Mario & Luigi_215
+    21300432: NES - Super Mario Bros - Mario & Luigi_216
+    21300434: NES - Super Mario Bros - Mario & Luigi_217
+    21300436: NES - Super Mario Bros - Mario & Luigi_218
+    21300438: NES - Super Mario Bros - Mario & Luigi_219
+    21300440: NES - Super Mario Bros - Mario & Luigi_220
+    21300442: NES - Super Mario Bros - Mario & Luigi_221
+    21300444: NES - Super Mario Bros - Mario & Luigi_222
+    21300446: NES - Super Mario Bros - Mario & Luigi_223
+    21300448: NES - Super Mario Bros - Mario & Luigi_224
+    21300450: NES - Super Mario Bros - Mario & Luigi_225
+    21300452: NES - Super Mario Bros - Mario & Luigi_226
+    21300454: NES - Super Mario Bros - Mario & Luigi_227
+    21300456: NES - Super Mario Bros - Mario & Luigi_228
+    21300458: NES - Super Mario Bros - Mario & Luigi_229
+    21300460: NES - Super Mario Bros - Mario & Luigi_230
+    21300462: NES - Super Mario Bros - Mario & Luigi_231
+    21300464: NES - Super Mario Bros - Mario & Luigi_232
+    21300466: NES - Super Mario Bros - Mario & Luigi_233
+    21300468: NES - Super Mario Bros - Mario & Luigi_234
+    21300470: NES - Super Mario Bros - Mario & Luigi_235
+    21300472: NES - Super Mario Bros - Mario & Luigi_236
+    21300474: NES - Super Mario Bros - Mario & Luigi_237
+    21300476: NES - Super Mario Bros - Mario & Luigi_238
+    21300478: NES - Super Mario Bros - Mario & Luigi_239
+    21300480: NES - Super Mario Bros - Mario & Luigi_240
+    21300482: NES - Super Mario Bros - Mario & Luigi_241
+    21300484: NES - Super Mario Bros - Mario & Luigi_242
+    21300486: NES - Super Mario Bros - Mario & Luigi_243
+    21300488: NES - Super Mario Bros - Mario & Luigi_244
+    21300490: NES - Super Mario Bros - Mario & Luigi_245
+    21300492: NES - Super Mario Bros - Mario & Luigi_246
+    21300494: NES - Super Mario Bros - Mario & Luigi_247
+    21300496: NES - Super Mario Bros - Mario & Luigi_248
+    21300498: NES - Super Mario Bros - Mario & Luigi_249
+    21300500: NES - Super Mario Bros - Mario & Luigi_250
+    21300502: NES - Super Mario Bros - Mario & Luigi_251
+    21300504: NES - Super Mario Bros - Mario & Luigi_252
+    21300506: NES - Super Mario Bros - Mario & Luigi_253
+    21300508: NES - Super Mario Bros - Mario & Luigi_254
+    21300510: NES - Super Mario Bros - Mario & Luigi_255
+    21300512: NES - Super Mario Bros - Mario & Luigi_256
+    21300514: NES - Super Mario Bros - Mario & Luigi_257
+    21300516: NES - Super Mario Bros - Mario & Luigi_258
+    21300518: NES - Super Mario Bros - Mario & Luigi_259
+    21300520: NES - Super Mario Bros - Mario & Luigi_260
+    21300522: NES - Super Mario Bros - Mario & Luigi_261
+    21300524: NES - Super Mario Bros - Mario & Luigi_262
+    21300526: NES - Super Mario Bros - Mario & Luigi_263
+    21300528: NES - Super Mario Bros - Mario & Luigi_264
+    21300530: NES - Super Mario Bros - Mario & Luigi_265
+    21300532: NES - Super Mario Bros - Mario & Luigi_266
+    21300534: NES - Super Mario Bros - Mario & Luigi_267
+    21300536: NES - Super Mario Bros - Mario & Luigi_268
+    21300538: NES - Super Mario Bros - Mario & Luigi_269
+    21300540: NES - Super Mario Bros - Mario & Luigi_270
+    21300542: NES - Super Mario Bros - Mario & Luigi_271
+    21300544: NES - Super Mario Bros - Mario & Luigi_272
+    21300546: NES - Super Mario Bros - Mario & Luigi_273
+    21300548: NES - Super Mario Bros - Mario & Luigi_274
+    21300550: NES - Super Mario Bros - Mario & Luigi_275
+    21300552: NES - Super Mario Bros - Mario & Luigi_276
+    21300554: NES - Super Mario Bros - Mario & Luigi_277
+    21300556: NES - Super Mario Bros - Mario & Luigi_278
+    21300558: NES - Super Mario Bros - Mario & Luigi_279
+    21300560: NES - Super Mario Bros - Mario & Luigi_280
+    21300562: NES - Super Mario Bros - Mario & Luigi_281
+    21300564: NES - Super Mario Bros - Mario & Luigi_282
+    21300566: NES - Super Mario Bros - Mario & Luigi_283
+    21300568: NES - Super Mario Bros - Mario & Luigi_284
+    21300570: NES - Super Mario Bros - Mario & Luigi_285
+    21300572: NES - Super Mario Bros - Mario & Luigi_286
+    21300574: NES - Super Mario Bros - Mario & Luigi_287
+    21300576: NES - Super Mario Bros - Mario & Luigi_288
+    21300578: NES - Super Mario Bros - Mario & Luigi_289
+    21300580: NES - Super Mario Bros - Mario & Luigi_290
+    21300582: NES - Super Mario Bros - Mario & Luigi_291
+    21300584: NES - Super Mario Bros - Mario & Luigi_292
+    21300586: NES - Super Mario Bros - Mario & Luigi_293
+    21300588: NES - Super Mario Bros - Mario & Luigi_294
+    21300590: NES - Super Mario Bros - Mario & Luigi_295
+    21300592: NES - Super Mario Bros - Mario & Luigi_296
+    21300594: NES - Super Mario Bros - Mario & Luigi_297
+    21300596: NES - Super Mario Bros - Mario & Luigi_298
+    21300598: NES - Super Mario Bros - Mario & Luigi_299
+    21300600: NES - Super Mario Bros - Mario & Luigi_300
+    21300602: NES - Super Mario Bros - Mario & Luigi_301
+    21300604: NES - Super Mario Bros - Mario & Luigi_302
+    21300606: NES - Super Mario Bros - Mario & Luigi_303
+    21300608: NES - Super Mario Bros - Mario & Luigi_304
+    21300610: NES - Super Mario Bros - Mario & Luigi_305
+    21300612: NES - Super Mario Bros - Mario & Luigi_306
+    21300614: NES - Super Mario Bros - Mario & Luigi_307
+    21300616: NES - Super Mario Bros - Mario & Luigi_308
+    21300618: NES - Super Mario Bros - Mario & Luigi_309
+    21300620: NES - Super Mario Bros - Mario & Luigi_310
+    21300622: NES - Super Mario Bros - Mario & Luigi_311
+    21300624: NES - Super Mario Bros - Mario & Luigi_312
+    21300626: NES - Super Mario Bros - Mario & Luigi_313
+    21300628: NES - Super Mario Bros - Mario & Luigi_314
+    21300630: NES - Super Mario Bros - Mario & Luigi_315
+    21300632: NES - Super Mario Bros - Mario & Luigi_316
+    21300634: NES - Super Mario Bros - Mario & Luigi_317
+    21300636: NES - Super Mario Bros - Mario & Luigi_318
+    21300638: NES - Super Mario Bros - Mario & Luigi_319
+    21300640: NES - Super Mario Bros - Mario & Luigi_320
+    21300642: NES - Super Mario Bros - Mario & Luigi_321
+    21300644: NES - Super Mario Bros - Mario & Luigi_322
+    21300646: NES - Super Mario Bros - Mario & Luigi_323
+    21300648: NES - Super Mario Bros - Mario & Luigi_324
+    21300650: NES - Super Mario Bros - Mario & Luigi_325
+    21300652: NES - Super Mario Bros - Mario & Luigi_326
+    21300654: NES - Super Mario Bros - Mario & Luigi_327
+    21300656: NES - Super Mario Bros - Mario & Luigi_328
+    21300658: NES - Super Mario Bros - Mario & Luigi_329
+    21300660: NES - Super Mario Bros - Mario & Luigi_330
+    21300662: NES - Super Mario Bros - Mario & Luigi_331
+    21300664: NES - Super Mario Bros - Mario & Luigi_332
+    21300666: NES - Super Mario Bros - Mario & Luigi_333
+    21300668: NES - Super Mario Bros - Mario & Luigi_334
+    21300670: NES - Super Mario Bros - Mario & Luigi_335
+    21300672: NES - Super Mario Bros - Mario & Luigi_336
+    21300674: NES - Super Mario Bros - Mario & Luigi_337
+    21300676: NES - Super Mario Bros - Mario & Luigi_338
+    21300678: NES - Super Mario Bros - Mario & Luigi_339
+    21300680: NES - Super Mario Bros - Mario & Luigi_340
+    21300682: NES - Super Mario Bros - Mario & Luigi_341
+    21300684: NES - Super Mario Bros - Mario & Luigi_342
+    21300686: NES - Super Mario Bros - Mario & Luigi_343
+    21300688: NES - Super Mario Bros - Mario & Luigi_344
+    21300690: NES - Super Mario Bros - Mario & Luigi_345
+    21300692: NES - Super Mario Bros - Mario & Luigi_346
+    21300694: NES - Super Mario Bros - Mario & Luigi_347
+    21300696: NES - Super Mario Bros - Mario & Luigi_348
+    21300698: NES - Super Mario Bros - Mario & Luigi_349
+    21300700: NES - Super Mario Bros - Mario & Luigi_350
+    21300702: NES - Super Mario Bros - Mario & Luigi_351
+    21300704: NES - Super Mario Bros - Mario & Luigi_352
+    21300706: NES - Super Mario Bros - Mario & Luigi_353
+    21300708: NES - Super Mario Bros - Mario & Luigi_354
+    21300710: NES - Super Mario Bros - Mario & Luigi_355
+    21300712: NES - Super Mario Bros - Mario & Luigi_356
+    21300714: NES - Super Mario Bros - Mario & Luigi_357
+    21300716: NES - Super Mario Bros - Mario & Luigi_358
+    21300718: NES - Super Mario Bros - Mario & Luigi_359
+    21300720: NES - Super Mario Bros - Mario & Luigi_360
+    21300722: NES - Super Mario Bros - Mario & Luigi_361
+    21300724: NES - Super Mario Bros - Mario & Luigi_362
+    21300726: NES - Super Mario Bros - Mario & Luigi_363
+    21300728: NES - Super Mario Bros - Mario & Luigi_364
+    21300730: NES - Super Mario Bros - Mario & Luigi_365
+    21300732: NES - Super Mario Bros - Mario & Luigi_366
+    21300734: NES - Super Mario Bros - Mario & Luigi_367
+    21300736: NES - Super Mario Bros - Mario & Luigi_368
+    21300738: NES - Super Mario Bros - Mario & Luigi_369
+    21300740: NES - Super Mario Bros - Mario & Luigi_370
+    21300742: NES - Super Mario Bros - Mario & Luigi_371
+    21300744: NES - Super Mario Bros - Mario & Luigi_372
+    21300746: NES - Super Mario Bros - Mario & Luigi_373
+    21300748: NES - Super Mario Bros - Mario & Luigi_374
+    21300750: NES - Super Mario Bros - Mario & Luigi_375
+    21300752: NES - Super Mario Bros - Mario & Luigi_376
+    21300754: NES - Super Mario Bros - Mario & Luigi_377
+    21300756: NES - Super Mario Bros - Mario & Luigi_378
+    21300758: NES - Super Mario Bros - Mario & Luigi_379
+    21300760: NES - Super Mario Bros - Mario & Luigi_380
+    21300762: NES - Super Mario Bros - Mario & Luigi_381
+    21300764: NES - Super Mario Bros - Mario & Luigi_382
+    21300766: NES - Super Mario Bros - Mario & Luigi_383
+    21300768: NES - Super Mario Bros - Mario & Luigi_384
+    21300770: NES - Super Mario Bros - Mario & Luigi_385
+    21300772: NES - Super Mario Bros - Mario & Luigi_386
+    21300774: NES - Super Mario Bros - Mario & Luigi_387
+    21300776: NES - Super Mario Bros - Mario & Luigi_388
+    21300778: NES - Super Mario Bros - Mario & Luigi_389
+    21300780: NES - Super Mario Bros - Mario & Luigi_390
+    21300782: NES - Super Mario Bros - Mario & Luigi_391
+    21300784: NES - Super Mario Bros - Mario & Luigi_392
+    21300786: NES - Super Mario Bros - Mario & Luigi_393
+    21300788: NES - Super Mario Bros - Mario & Luigi_394
+    21300790: NES - Super Mario Bros - Mario & Luigi_395
+    21300792: NES - Super Mario Bros - Mario & Luigi_396
+    21300794: NES - Super Mario Bros - Mario & Luigi_397
+    21300796: NES - Super Mario Bros - Mario & Luigi_398
+    21300798: NES - Super Mario Bros - Mario & Luigi_399
+    21300800: NES - Super Mario Bros - Mario & Luigi_400
+    21300802: NES - Super Mario Bros - Mario & Luigi_401
+    21300804: NES - Super Mario Bros - Mario & Luigi_402
+    21300806: NES - Super Mario Bros - Mario & Luigi_403
+    21300808: NES - Super Mario Bros - Mario & Luigi_404
+    21300810: NES - Super Mario Bros - Mario & Luigi_405
+    21300812: NES - Super Mario Bros - Mario & Luigi_406
+    21300814: NES - Super Mario Bros - Mario & Luigi_407
+    21300816: NES - Super Mario Bros - Mario & Luigi_408
+    21300818: NES - Super Mario Bros - Mario & Luigi_409
+    21300820: NES - Super Mario Bros - Mario & Luigi_410
+    21300822: NES - Super Mario Bros - Mario & Luigi_411
+    21300824: NES - Super Mario Bros - Mario & Luigi_412
+    21300826: NES - Super Mario Bros - Mario & Luigi_413
+    21300828: NES - Super Mario Bros - Mario & Luigi_414
+    21300830: NES - Super Mario Bros - Mario & Luigi_415
+    21300832: NES - Super Mario Bros - Mario & Luigi_416
+    21300834: NES - Super Mario Bros - Mario & Luigi_417
+    21300836: NES - Super Mario Bros - Mario & Luigi_418
+    21300838: NES - Super Mario Bros - Mario & Luigi_419
+    21300840: NES - Super Mario Bros - Mario & Luigi_420
+    21300842: NES - Super Mario Bros - Mario & Luigi_421
+    21300844: NES - Super Mario Bros - Mario & Luigi_422
+    21300846: NES - Super Mario Bros - Mario & Luigi_423
+    21300848: NES - Super Mario Bros - Mario & Luigi_424
+    21300850: NES - Super Mario Bros - Mario & Luigi_425
+    21300852: NES - Super Mario Bros - Mario & Luigi_426
+    21300854: NES - Super Mario Bros - Mario & Luigi_427
+    21300856: NES - Super Mario Bros - Mario & Luigi_428
+    21300858: NES - Super Mario Bros - Mario & Luigi_429
+    21300860: NES - Super Mario Bros - Mario & Luigi_430
+    21300862: NES - Super Mario Bros - Mario & Luigi_431
+    21300864: NES - Super Mario Bros - Mario & Luigi_432
+    21300866: NES - Super Mario Bros - Mario & Luigi_433
+    21300868: NES - Super Mario Bros - Mario & Luigi_434
+    21300870: NES - Super Mario Bros - Mario & Luigi_435
+    21300872: NES - Super Mario Bros - Mario & Luigi_436
+    21300874: NES - Super Mario Bros - Mario & Luigi_437
+    21300876: NES - Super Mario Bros - Mario & Luigi_438
+    21300878: NES - Super Mario Bros - Mario & Luigi_439
+    21300880: NES - Super Mario Bros - Mario & Luigi_440
+    21300882: NES - Super Mario Bros - Mario & Luigi_441
+    21300884: NES - Super Mario Bros - Mario & Luigi_442
+    21300886: NES - Super Mario Bros - Mario & Luigi_443
+    21300888: NES - Super Mario Bros - Mario & Luigi_444
+    21300890: NES - Super Mario Bros - Mario & Luigi_445
+    21300892: NES - Super Mario Bros - Mario & Luigi_446
+    21300894: NES - Super Mario Bros - Mario & Luigi_447
+    21300896: NES - Super Mario Bros - Mario & Luigi_448
+    21300898: NES - Super Mario Bros - Mario & Luigi_449
+    21300900: NES - Super Mario Bros - Mario & Luigi_450
+    21300902: NES - Super Mario Bros - Mario & Luigi_451
+    21300904: NES - Super Mario Bros - Mario & Luigi_452
+    21300906: NES - Super Mario Bros - Mario & Luigi_453
+    21300908: NES - Super Mario Bros - Mario & Luigi_454
+    21300910: NES - Super Mario Bros - Mario & Luigi_455
+    21300912: NES - Super Mario Bros - Mario & Luigi_456
+    21300914: NES - Super Mario Bros - Mario & Luigi_457
+    21300916: NES - Super Mario Bros - Mario & Luigi_458
+    21300918: NES - Super Mario Bros - Mario & Luigi_459
+    21300920: NES - Super Mario Bros - Mario & Luigi_460
+    21300922: NES - Super Mario Bros - Mario & Luigi_461
+    21300924: NES - Super Mario Bros - Mario & Luigi_462
+    21300926: NES - Super Mario Bros - Mario & Luigi_463
+    21300928: NES - Super Mario Bros - Mario & Luigi_464
+    21300930: NES - Super Mario Bros - Mario & Luigi_465
+    21300932: NES - Super Mario Bros - Mario & Luigi_466
+    21300934: NES - Super Mario Bros - Mario & Luigi_467
+    21300936: NES - Super Mario Bros - Mario & Luigi_468
+    21300938: NES - Super Mario Bros - Mario & Luigi_469
+    21300940: NES - Super Mario Bros - Mario & Luigi_470
+    21300942: NES - Super Mario Bros - Mario & Luigi_471
+    21300944: NES - Super Mario Bros - Mario & Luigi_472
+    21300946: NES - Super Mario Bros - Mario & Luigi_473
+    21300948: NES - Super Mario Bros - Mario & Luigi_474
+    21300950: NES - Super Mario Bros - Mario & Luigi_475
+    21300952: NES - Super Mario Bros - Mario & Luigi_476
+    21300954: NES - Super Mario Bros - Mario & Luigi_477
+    21300956: NES - Super Mario Bros - Mario & Luigi_478
+    21300958: NES - Super Mario Bros - Mario & Luigi_479
+    21300960: NES - Super Mario Bros - Mario & Luigi_480
+    21300962: NES - Super Mario Bros - Mario & Luigi_481
+    21300964: NES - Super Mario Bros - Mario & Luigi_482
+    21300966: NES - Super Mario Bros - Mario & Luigi_483
+    21300968: NES - Super Mario Bros - Mario & Luigi_484
+    21300970: NES - Super Mario Bros - Mario & Luigi_485
+    21300972: NES - Super Mario Bros - Mario & Luigi_486
+    21300974: NES - Super Mario Bros - Mario & Luigi_487
+    21300976: NES - Super Mario Bros - Mario & Luigi_488
+    21300978: NES - Super Mario Bros - Mario & Luigi_489
+    21300980: NES - Super Mario Bros - Mario & Luigi_490
+    21300982: NES - Super Mario Bros - Mario & Luigi_491
+    21300984: NES - Super Mario Bros - Mario & Luigi_492
+    21300986: NES - Super Mario Bros - Mario & Luigi_493
+    21300988: NES - Super Mario Bros - Mario & Luigi_494
+    21300990: NES - Super Mario Bros - Mario & Luigi_495
+    21300992: NES - Super Mario Bros - Mario & Luigi_496
+    21300994: NES - Super Mario Bros - Mario & Luigi_497
+    21300996: NES - Super Mario Bros - Mario & Luigi_498
+    21300998: NES - Super Mario Bros - Mario & Luigi_499
+    21301000: NES - Super Mario Bros - Mario & Luigi_500
+    21301002: NES - Super Mario Bros - Mario & Luigi_501
+    21301004: NES - Super Mario Bros - Mario & Luigi_502
+    21301006: NES - Super Mario Bros - Mario & Luigi_503
+    21301008: NES - Super Mario Bros - Mario & Luigi_504
+    21301010: NES - Super Mario Bros - Mario & Luigi_505
+    21301012: NES - Super Mario Bros - Mario & Luigi_506
+    21301014: NES - Super Mario Bros - Mario & Luigi_507
+    21301016: NES - Super Mario Bros - Mario & Luigi_508
+    21301018: NES - Super Mario Bros - Mario & Luigi_509
+    21301020: NES - Super Mario Bros - Mario & Luigi_510
+    21301022: NES - Super Mario Bros - Mario & Luigi_511
+    21301024: NES - Super Mario Bros - Mario & Luigi_512
+    21301026: NES - Super Mario Bros - Mario & Luigi_513
+    21301028: NES - Super Mario Bros - Mario & Luigi_514
+    21301030: NES - Super Mario Bros - Mario & Luigi_515
+    21301032: NES - Super Mario Bros - Mario & Luigi_516
+    21301034: NES - Super Mario Bros - Mario & Luigi_517
+    21301036: NES - Super Mario Bros - Mario & Luigi_518
+    21301038: NES - Super Mario Bros - Mario & Luigi_519
+    21301040: NES - Super Mario Bros - Mario & Luigi_520
+    21301042: NES - Super Mario Bros - Mario & Luigi_521
+    21301044: NES - Super Mario Bros - Mario & Luigi_522
+    21301046: NES - Super Mario Bros - Mario & Luigi_523
+    21301048: NES - Super Mario Bros - Mario & Luigi_524
+    21301050: NES - Super Mario Bros - Mario & Luigi_525
+    21301052: NES - Super Mario Bros - Mario & Luigi_526
+    21301054: NES - Super Mario Bros - Mario & Luigi_527
+    21301056: NES - Super Mario Bros - Mario & Luigi_528
+    21301058: NES - Super Mario Bros - Mario & Luigi_529
+    21301060: NES - Super Mario Bros - Mario & Luigi_530
+    21301062: NES - Super Mario Bros - Mario & Luigi_531
+    21301064: NES - Super Mario Bros - Mario & Luigi_532
+    21301066: NES - Super Mario Bros - Mario & Luigi_533
+    21301068: NES - Super Mario Bros - Mario & Luigi_534
+    21301070: NES - Super Mario Bros - Mario & Luigi_535
+    21301072: NES - Super Mario Bros - Mario & Luigi_536
+    21301074: NES - Super Mario Bros - Mario & Luigi_537
+    21301076: NES - Super Mario Bros - Mario & Luigi_538
+    21301078: NES - Super Mario Bros - Mario & Luigi_539
+    21301080: NES - Super Mario Bros - Mario & Luigi_540
+    21301082: NES - Super Mario Bros - Mario & Luigi_541
+    21301084: NES - Super Mario Bros - Mario & Luigi_542
+    21301086: NES - Super Mario Bros - Mario & Luigi_543
+    21301088: NES - Super Mario Bros - Mario & Luigi_544
+    21301090: NES - Super Mario Bros - Mario & Luigi_545
+    21301092: NES - Super Mario Bros - Mario & Luigi_546
+    21301094: NES - Super Mario Bros - Mario & Luigi_547
+    21301096: NES - Super Mario Bros - Mario & Luigi_548
+    21301098: NES - Super Mario Bros - Mario & Luigi_549
+    21301100: NES - Super Mario Bros - Mario & Luigi_550
+    21301102: NES - Super Mario Bros - Mario & Luigi_551
+    21301104: NES - Super Mario Bros - Mario & Luigi_552
+    21301106: NES - Super Mario Bros - Mario & Luigi_553
+    21301108: NES - Super Mario Bros - Mario & Luigi_554
+    21301110: NES - Super Mario Bros - Mario & Luigi_555
+    21301112: NES - Super Mario Bros - Mario & Luigi_556
+    21301114: NES - Super Mario Bros - Mario & Luigi_557
+    21301116: NES - Super Mario Bros - Mario & Luigi_558
+    21301118: NES - Super Mario Bros - Mario & Luigi_559
+    21301120: NES - Super Mario Bros - Mario & Luigi_560
+    21301122: NES - Super Mario Bros - Mario & Luigi_561
+    21301124: NES - Super Mario Bros - Mario & Luigi_562
+    21301126: NES - Super Mario Bros - Mario & Luigi_563
+    21301128: NES - Super Mario Bros - Mario & Luigi_564
+    21301130: NES - Super Mario Bros - Mario & Luigi_565
+    21301132: NES - Super Mario Bros - Mario & Luigi_566
+    21301134: NES - Super Mario Bros - Mario & Luigi_567
+    21301136: NES - Super Mario Bros - Mario & Luigi_568
+    21301138: NES - Super Mario Bros - Mario & Luigi_569
+    21301140: NES - Super Mario Bros - Mario & Luigi_570
+    21301142: NES - Super Mario Bros - Mario & Luigi_571
+    21301144: NES - Super Mario Bros - Mario & Luigi_572
+    21301146: NES - Super Mario Bros - Mario & Luigi_573
+    21301148: NES - Super Mario Bros - Mario & Luigi_574
+    21301150: NES - Super Mario Bros - Mario & Luigi_575
+    21301152: NES - Super Mario Bros - Mario & Luigi_576
+    21301154: NES - Super Mario Bros - Mario & Luigi_577
+    21301156: NES - Super Mario Bros - Mario & Luigi_578
+    21301158: NES - Super Mario Bros - Mario & Luigi_579
+    21301160: NES - Super Mario Bros - Mario & Luigi_580
+    21301162: NES - Super Mario Bros - Mario & Luigi_581
+    21301164: NES - Super Mario Bros - Mario & Luigi_582
+    21301166: NES - Super Mario Bros - Mario & Luigi_583
+    21301168: NES - Super Mario Bros - Mario & Luigi_584
+    21301170: NES - Super Mario Bros - Mario & Luigi_585
+    21301172: NES - Super Mario Bros - Mario & Luigi_586
+    21301174: NES - Super Mario Bros - Mario & Luigi_587
+    21301176: NES - Super Mario Bros - Mario & Luigi_588
+    21301178: NES - Super Mario Bros - Mario & Luigi_589
+    21301180: NES - Super Mario Bros - Mario & Luigi_590
+    21301182: NES - Super Mario Bros - Mario & Luigi_591
+    21301184: NES - Super Mario Bros - Mario & Luigi_592
+    21301186: NES - Super Mario Bros - Mario & Luigi_593
+    21301188: NES - Super Mario Bros - Mario & Luigi_594
+    21301190: NES - Super Mario Bros - Mario & Luigi_595
+    21301192: NES - Super Mario Bros - Mario & Luigi_596
+    21301194: NES - Super Mario Bros - Mario & Luigi_597
+    21301196: NES - Super Mario Bros - Mario & Luigi_598
+    21301198: NES - Super Mario Bros - Mario & Luigi_599
+    21301200: NES - Super Mario Bros - Mario & Luigi_600
+    21301202: NES - Super Mario Bros - Mario & Luigi_601
+    21301204: NES - Super Mario Bros - Mario & Luigi_602
+    21301206: NES - Super Mario Bros - Mario & Luigi_603
+    21301208: NES - Super Mario Bros - Mario & Luigi_604
+    21301210: NES - Super Mario Bros - Mario & Luigi_605
+    21301212: NES - Super Mario Bros - Mario & Luigi_606
+    21301214: NES - Super Mario Bros - Mario & Luigi_607
+    21301216: NES - Super Mario Bros - Mario & Luigi_608
+    21301218: NES - Super Mario Bros - Mario & Luigi_609
+    21301220: NES - Super Mario Bros - Mario & Luigi_610
+    21301222: NES - Super Mario Bros - Mario & Luigi_611
+    21301224: NES - Super Mario Bros - Mario & Luigi_612
+    21301226: NES - Super Mario Bros - Mario & Luigi_613
+    21301228: NES - Super Mario Bros - Mario & Luigi_614
+    21301230: NES - Super Mario Bros - Mario & Luigi_615
+    21301232: NES - Super Mario Bros - Mario & Luigi_616
+    21301234: NES - Super Mario Bros - Mario & Luigi_617
+    21301236: NES - Super Mario Bros - Mario & Luigi_618
+    21301238: NES - Super Mario Bros - Mario & Luigi_619
+    21301240: NES - Super Mario Bros - Mario & Luigi_620
+    21301242: NES - Super Mario Bros - Mario & Luigi_621
+    21301244: NES - Super Mario Bros - Mario & Luigi_622
+    21301246: NES - Super Mario Bros - Mario & Luigi_623
+    21301248: NES - Super Mario Bros - Mario & Luigi_624
+    21301250: NES - Super Mario Bros - Mario & Luigi_625
+    21301252: NES - Super Mario Bros - Mario & Luigi_626
+    21301254: NES - Super Mario Bros - Mario & Luigi_627
+    21301256: NES - Super Mario Bros - Mario & Luigi_628
+    21301258: NES - Super Mario Bros - Mario & Luigi_629
+    21301260: NES - Super Mario Bros - Mario & Luigi_630
+    21301262: NES - Super Mario Bros - Mario & Luigi_631
+    21301264: NES - Super Mario Bros - Mario & Luigi_632
+    21301266: NES - Super Mario Bros - Mario & Luigi_633
+    21301268: NES - Super Mario Bros - Mario & Luigi_634
+    21301270: NES - Super Mario Bros - Mario & Luigi_635
+    21301272: NES - Super Mario Bros - Mario & Luigi_636
+    21301274: NES - Super Mario Bros - Mario & Luigi_637
+    21301276: NES - Super Mario Bros - Mario & Luigi_638
+    21301278: NES - Super Mario Bros - Mario & Luigi_639
+    21301280: NES - Super Mario Bros - Mario & Luigi_640
+    21301282: NES - Super Mario Bros - Mario & Luigi_641
+    21301284: NES - Super Mario Bros - Mario & Luigi_642
+    21301286: NES - Super Mario Bros - Mario & Luigi_643
+    21301288: NES - Super Mario Bros - Mario & Luigi_644
+    21301290: NES - Super Mario Bros - Mario & Luigi_645
+    21301292: NES - Super Mario Bros - Mario & Luigi_646
+    21301294: NES - Super Mario Bros - Mario & Luigi_647
+    21301296: NES - Super Mario Bros - Mario & Luigi_648
+    21301298: NES - Super Mario Bros - Mario & Luigi_649
+    21301300: NES - Super Mario Bros - Mario & Luigi_650
+    21301302: NES - Super Mario Bros - Mario & Luigi_651
+    21301304: NES - Super Mario Bros - Mario & Luigi_652
+    21301306: NES - Super Mario Bros - Mario & Luigi_653
+    21301308: NES - Super Mario Bros - Mario & Luigi_654
+    21301310: NES - Super Mario Bros - Mario & Luigi_655
+    21301312: NES - Super Mario Bros - Mario & Luigi_656
+    21301314: NES - Super Mario Bros - Mario & Luigi_657
+    21301316: NES - Super Mario Bros - Mario & Luigi_658
+    21301318: NES - Super Mario Bros - Mario & Luigi_659
+    21301320: NES - Super Mario Bros - Mario & Luigi_660
+    21301322: NES - Super Mario Bros - Mario & Luigi_661
+    21301324: NES - Super Mario Bros - Mario & Luigi_662
+    21301326: NES - Super Mario Bros - Mario & Luigi_663
+    21301328: NES - Super Mario Bros - Mario & Luigi_664
+    21301330: NES - Super Mario Bros - Mario & Luigi_665
+    21301332: NES - Super Mario Bros - Mario & Luigi_666
+    21301334: NES - Super Mario Bros - Mario & Luigi_667
+    21301336: NES - Super Mario Bros - Mario & Luigi_668
+    21301338: NES - Super Mario Bros - Mario & Luigi_669
+    21301340: NES - Super Mario Bros - Mario & Luigi_670
+    21301342: NES - Super Mario Bros - Mario & Luigi_671
+    21301344: NES - Super Mario Bros - Mario & Luigi_672
+    21301346: NES - Super Mario Bros - Mario & Luigi_673
+    21301348: NES - Super Mario Bros - Mario & Luigi_674
+    21301350: NES - Super Mario Bros - Mario & Luigi_675
+    21301352: NES - Super Mario Bros - Mario & Luigi_676
+    21301354: NES - Super Mario Bros - Mario & Luigi_677
+    21301356: NES - Super Mario Bros - Mario & Luigi_678
+    21301358: NES - Super Mario Bros - Mario & Luigi_679
+    21301360: NES - Super Mario Bros - Mario & Luigi_680
+    21301362: NES - Super Mario Bros - Mario & Luigi_681
+    21301364: NES - Super Mario Bros - Mario & Luigi_682
+    21301366: NES - Super Mario Bros - Mario & Luigi_683
+    21301368: NES - Super Mario Bros - Mario & Luigi_684
+    21301370: NES - Super Mario Bros - Mario & Luigi_685
+    21301372: NES - Super Mario Bros - Mario & Luigi_686
+    21301374: NES - Super Mario Bros - Mario & Luigi_687
+    21301376: NES - Super Mario Bros - Mario & Luigi_688
+    21301378: NES - Super Mario Bros - Mario & Luigi_689
+    21301380: NES - Super Mario Bros - Mario & Luigi_690
+    21301382: NES - Super Mario Bros - Mario & Luigi_691
+    21301384: NES - Super Mario Bros - Mario & Luigi_692
+    21301386: NES - Super Mario Bros - Mario & Luigi_693
+    21301388: NES - Super Mario Bros - Mario & Luigi_694
+    21301390: NES - Super Mario Bros - Mario & Luigi_695
+    21301392: NES - Super Mario Bros - Mario & Luigi_696
+    21301394: NES - Super Mario Bros - Mario & Luigi_697
+    21301396: NES - Super Mario Bros - Mario & Luigi_698
+    21301398: NES - Super Mario Bros - Mario & Luigi_699
+    21301400: NES - Super Mario Bros - Mario & Luigi_700
+    21301402: NES - Super Mario Bros - Mario & Luigi_701
+    21301404: NES - Super Mario Bros - Mario & Luigi_702
+    21301406: NES - Super Mario Bros - Mario & Luigi_703
+    21301408: NES - Super Mario Bros - Mario & Luigi_704
+    21301410: NES - Super Mario Bros - Mario & Luigi_705
+    21301412: NES - Super Mario Bros - Mario & Luigi_706
+    21301414: NES - Super Mario Bros - Mario & Luigi_707
+    21301416: NES - Super Mario Bros - Mario & Luigi_708
+    21301418: NES - Super Mario Bros - Mario & Luigi_709
+    21301420: NES - Super Mario Bros - Mario & Luigi_710
+    21301422: NES - Super Mario Bros - Mario & Luigi_711
+    21301424: NES - Super Mario Bros - Mario & Luigi_712
+    21301426: NES - Super Mario Bros - Mario & Luigi_713
+    21301428: NES - Super Mario Bros - Mario & Luigi_714
+    21301430: NES - Super Mario Bros - Mario & Luigi_715
+    21301432: NES - Super Mario Bros - Mario & Luigi_716
+    21301434: NES - Super Mario Bros - Mario & Luigi_717
+    21301436: NES - Super Mario Bros - Mario & Luigi_718
+    21301438: NES - Super Mario Bros - Mario & Luigi_719
+    21301440: NES - Super Mario Bros - Mario & Luigi_720
+    21301442: NES - Super Mario Bros - Mario & Luigi_721
+    21301444: NES - Super Mario Bros - Mario & Luigi_722
+    21301446: NES - Super Mario Bros - Mario & Luigi_723
+    21301448: NES - Super Mario Bros - Mario & Luigi_724
+    21301450: NES - Super Mario Bros - Mario & Luigi_725
+    21301452: NES - Super Mario Bros - Mario & Luigi_726
+    21301454: NES - Super Mario Bros - Mario & Luigi_727
+    21301456: NES - Super Mario Bros - Mario & Luigi_728
+    21301458: NES - Super Mario Bros - Mario & Luigi_729
+    21301460: NES - Super Mario Bros - Mario & Luigi_730
+    21301462: NES - Super Mario Bros - Mario & Luigi_731
+    21301464: NES - Super Mario Bros - Mario & Luigi_732
+    21301466: NES - Super Mario Bros - Mario & Luigi_733
+    21301468: NES - Super Mario Bros - Mario & Luigi_734
+    21301470: NES - Super Mario Bros - Mario & Luigi_735
+    21301472: NES - Super Mario Bros - Mario & Luigi_736
+    21301474: NES - Super Mario Bros - Mario & Luigi_737
+    21301476: NES - Super Mario Bros - Mario & Luigi_738
+    21301478: NES - Super Mario Bros - Mario & Luigi_739
+    21301480: NES - Super Mario Bros - Mario & Luigi_740
+    21301482: NES - Super Mario Bros - Mario & Luigi_741
+    21301484: NES - Super Mario Bros - Mario & Luigi_742
+    21301486: NES - Super Mario Bros - Mario & Luigi_743
+    21301488: NES - Super Mario Bros - Mario & Luigi_744
+    21301490: NES - Super Mario Bros - Mario & Luigi_745
+    21301492: NES - Super Mario Bros - Mario & Luigi_746
+    21301494: NES - Super Mario Bros - Mario & Luigi_747
+    21301496: NES - Super Mario Bros - Mario & Luigi_748
+    21301498: NES - Super Mario Bros - Mario & Luigi_749
+    21301500: NES - Super Mario Bros - Mario & Luigi_750
+    21301502: NES - Super Mario Bros - Mario & Luigi_751
+    21301504: NES - Super Mario Bros - Mario & Luigi_752
+    21301506: NES - Super Mario Bros - Mario & Luigi_753
+    21301508: NES - Super Mario Bros - Mario & Luigi_754
+    21301510: NES - Super Mario Bros - Mario & Luigi_755
+    21301512: NES - Super Mario Bros - Mario & Luigi_756
+    21301514: NES - Super Mario Bros - Mario & Luigi_757
+    21301516: NES - Super Mario Bros - Mario & Luigi_758
+    21301518: NES - Super Mario Bros - Mario & Luigi_759
+    21301520: NES - Super Mario Bros - Mario & Luigi_760
+    21301522: NES - Super Mario Bros - Mario & Luigi_761
+    21301524: NES - Super Mario Bros - Mario & Luigi_762
+    21301526: NES - Super Mario Bros - Mario & Luigi_763
+    21301528: NES - Super Mario Bros - Mario & Luigi_764
+    21301530: NES - Super Mario Bros - Mario & Luigi_765
+    21301532: NES - Super Mario Bros - Mario & Luigi_766
+    21301534: NES - Super Mario Bros - Mario & Luigi_767
+    21301536: NES - Super Mario Bros - Mario & Luigi_768
+    21301538: NES - Super Mario Bros - Mario & Luigi_769
+    21301540: NES - Super Mario Bros - Mario & Luigi_770
+    21301542: NES - Super Mario Bros - Mario & Luigi_771
+    21301544: NES - Super Mario Bros - Mario & Luigi_772
+    21301546: NES - Super Mario Bros - Mario & Luigi_773
+    21301548: NES - Super Mario Bros - Mario & Luigi_774
+    21301550: NES - Super Mario Bros - Mario & Luigi_775
+    21301552: NES - Super Mario Bros - Mario & Luigi_776
+    21301554: NES - Super Mario Bros - Mario & Luigi_777
+    21301556: NES - Super Mario Bros - Mario & Luigi_778
+    21301558: NES - Super Mario Bros - Mario & Luigi_779
+    21301560: NES - Super Mario Bros - Mario & Luigi_780
+    21301562: NES - Super Mario Bros - Mario & Luigi_781
+    21301564: NES - Super Mario Bros - Mario & Luigi_782
+    21301566: NES - Super Mario Bros - Mario & Luigi_783
+    21301568: NES - Super Mario Bros - Mario & Luigi_784
+    21301570: NES - Super Mario Bros - Mario & Luigi_785
+    21301572: NES - Super Mario Bros - Mario & Luigi_786
+    21301574: NES - Super Mario Bros - Mario & Luigi_787
+    21301576: NES - Super Mario Bros - Mario & Luigi_788
+    21301578: NES - Super Mario Bros - Mario & Luigi_789
+    21301580: NES - Super Mario Bros - Mario & Luigi_790
+    21301582: NES - Super Mario Bros - Mario & Luigi_791
+    21301584: NES - Super Mario Bros - Mario & Luigi_792
+    21301586: NES - Super Mario Bros - Mario & Luigi_793
+    21301588: NES - Super Mario Bros - Mario & Luigi_794
+    21301590: NES - Super Mario Bros - Mario & Luigi_795
+    21301592: NES - Super Mario Bros - Mario & Luigi_796
+    21301594: NES - Super Mario Bros - Mario & Luigi_797
+    21301596: NES - Super Mario Bros - Mario & Luigi_798
+    21301598: NES - Super Mario Bros - Mario & Luigi_799
+    21301600: NES - Super Mario Bros - Mario & Luigi_800
+    21301602: NES - Super Mario Bros - Mario & Luigi_801
+    21301604: NES - Super Mario Bros - Mario & Luigi_802
+    21301606: NES - Super Mario Bros - Mario & Luigi_803
+    21301608: NES - Super Mario Bros - Mario & Luigi_804
+    21301610: NES - Super Mario Bros - Mario & Luigi_805
+    21301612: NES - Super Mario Bros - Mario & Luigi_806
+    21301614: NES - Super Mario Bros - Mario & Luigi_807
+    21301616: NES - Super Mario Bros - Mario & Luigi_808
+    21301618: NES - Super Mario Bros - Mario & Luigi_809
+    21301620: NES - Super Mario Bros - Mario & Luigi_810
+    21301622: NES - Super Mario Bros - Mario & Luigi_811
+    21301624: NES - Super Mario Bros - Mario & Luigi_812
+    21301626: NES - Super Mario Bros - Mario & Luigi_813
+    21301628: NES - Super Mario Bros - Mario & Luigi_814
+    21301630: NES - Super Mario Bros - Mario & Luigi_815
+    21301632: NES - Super Mario Bros - Mario & Luigi_816
+    21301634: NES - Super Mario Bros - Mario & Luigi_817
+    21301636: NES - Super Mario Bros - Mario & Luigi_818
+    21301638: NES - Super Mario Bros - Mario & Luigi_819
+    21301640: NES - Super Mario Bros - Mario & Luigi_820
+    21301642: NES - Super Mario Bros - Mario & Luigi_821
+    21301644: NES - Super Mario Bros - Mario & Luigi_822
+    21301646: NES - Super Mario Bros - Mario & Luigi_823
+    21301648: NES - Super Mario Bros - Mario & Luigi_824
+    21301650: NES - Super Mario Bros - Mario & Luigi_825
+    21301652: NES - Super Mario Bros - Mario & Luigi_826
+    21301654: NES - Super Mario Bros - Mario & Luigi_827
+    21301656: NES - Super Mario Bros - Mario & Luigi_828
+    21301658: NES - Super Mario Bros - Mario & Luigi_829
+    21301660: NES - Super Mario Bros - Mario & Luigi_830
+    21301662: NES - Super Mario Bros - Mario & Luigi_831
+    21301664: NES - Super Mario Bros - Mario & Luigi_832
+    21301666: NES - Super Mario Bros - Mario & Luigi_833
+    21301668: NES - Super Mario Bros - Mario & Luigi_834
+    21301670: NES - Super Mario Bros - Mario & Luigi_835
+    21301672: NES - Super Mario Bros - Mario & Luigi_836
+    21301674: NES - Super Mario Bros - Mario & Luigi_837
+    21301676: NES - Super Mario Bros - Mario & Luigi_838
+    21301678: NES - Super Mario Bros - Mario & Luigi_839
+    21301680: NES - Super Mario Bros - Mario & Luigi_840
+    21301682: NES - Super Mario Bros - Mario & Luigi_841
+    21301684: NES - Super Mario Bros - Mario & Luigi_842
+    21301686: NES - Super Mario Bros - Mario & Luigi_843
+    21301688: NES - Super Mario Bros - Mario & Luigi_844
+    21301690: NES - Super Mario Bros - Mario & Luigi_845
+    21301692: NES - Super Mario Bros - Mario & Luigi_846
+    21301694: NES - Super Mario Bros - Mario & Luigi_847
+    21301696: NES - Super Mario Bros - Mario & Luigi_848
+    21301698: NES - Super Mario Bros - Mario & Luigi_849
+    21301700: NES - Super Mario Bros - Mario & Luigi_850
+    21301702: NES - Super Mario Bros - Mario & Luigi_851
+    21301704: NES - Super Mario Bros - Mario & Luigi_852
+    21301706: NES - Super Mario Bros - Mario & Luigi_853
+    21301708: NES - Super Mario Bros - Mario & Luigi_854
+    21301710: NES - Super Mario Bros - Mario & Luigi_855
+    21301712: NES - Super Mario Bros - Mario & Luigi_856
+    21301714: NES - Super Mario Bros - Mario & Luigi_857
+    21301716: NES - Super Mario Bros - Mario & Luigi_858
+    21301718: NES - Super Mario Bros - Mario & Luigi_859
+    21301720: NES - Super Mario Bros - Mario & Luigi_860
+    21301722: NES - Super Mario Bros - Mario & Luigi_861
+    21301724: NES - Super Mario Bros - Mario & Luigi_862
+    21301726: NES - Super Mario Bros - Mario & Luigi_863
+    21301728: NES - Super Mario Bros - Mario & Luigi_864
+    21301730: NES - Super Mario Bros - Mario & Luigi_865
+    21301732: NES - Super Mario Bros - Mario & Luigi_866
+    21301734: NES - Super Mario Bros - Mario & Luigi_867
+    21301736: NES - Super Mario Bros - Mario & Luigi_868
+    21301738: NES - Super Mario Bros - Mario & Luigi_869
+    21301740: NES - Super Mario Bros - Mario & Luigi_870
+    21301742: NES - Super Mario Bros - Mario & Luigi_871
+    21301744: NES - Super Mario Bros - Mario & Luigi_872
+    21301746: NES - Super Mario Bros - Mario & Luigi_873
+    21301748: NES - Super Mario Bros - Mario & Luigi_874
+    21301750: NES - Super Mario Bros - Mario & Luigi_875
+    21301752: NES - Super Mario Bros - Mario & Luigi_876
+    21301754: NES - Super Mario Bros - Mario & Luigi_877
+    21301756: NES - Super Mario Bros - Mario & Luigi_878
+    21301758: NES - Super Mario Bros - Mario & Luigi_879
+    21301760: NES - Super Mario Bros - Mario & Luigi_880
+    21301762: NES - Super Mario Bros - Mario & Luigi_881
+    21301764: NES - Super Mario Bros - Mario & Luigi_882
+    21301766: NES - Super Mario Bros - Mario & Luigi_883
+    21301768: NES - Super Mario Bros - Mario & Luigi_884
+    21301770: NES - Super Mario Bros - Mario & Luigi_885
+    21301772: NES - Super Mario Bros - Mario & Luigi_886
+    21301774: NES - Super Mario Bros - Mario & Luigi_887
+    21301776: NES - Super Mario Bros - Mario & Luigi_888
+    21301778: NES - Super Mario Bros - Mario & Luigi_889
+    21301780: NES - Super Mario Bros - Mario & Luigi_890
+    21301782: NES - Super Mario Bros - Mario & Luigi_891
+    21301784: NES - Super Mario Bros - Mario & Luigi_892
+    21301786: NES - Super Mario Bros - Mario & Luigi_893
+    21301788: NES - Super Mario Bros - Mario & Luigi_894
+    21301790: NES - Super Mario Bros - Mario & Luigi_895
+    21301792: NES - Super Mario Bros - Mario & Luigi_896
+    21301794: NES - Super Mario Bros - Mario & Luigi_897
+    21301796: NES - Super Mario Bros - Mario & Luigi_898
+    21301798: NES - Super Mario Bros - Mario & Luigi_899
+    21301800: NES - Super Mario Bros - Mario & Luigi_900
+    21301802: NES - Super Mario Bros - Mario & Luigi_901
+    21301804: NES - Super Mario Bros - Mario & Luigi_902
+    21301806: NES - Super Mario Bros - Mario & Luigi_903
+    21301808: NES - Super Mario Bros - Mario & Luigi_904
+    21301810: NES - Super Mario Bros - Mario & Luigi_905
+    21301812: NES - Super Mario Bros - Mario & Luigi_906
+    21301814: NES - Super Mario Bros - Mario & Luigi_907
+    21301816: NES - Super Mario Bros - Mario & Luigi_908
+    21301818: NES - Super Mario Bros - Mario & Luigi_909
+    21301820: NES - Super Mario Bros - Mario & Luigi_910
+    21301822: NES - Super Mario Bros - Mario & Luigi_911
+    21301824: NES - Super Mario Bros - Mario & Luigi_912
+    21301826: NES - Super Mario Bros - Mario & Luigi_913
+    21301828: NES - Super Mario Bros - Mario & Luigi_914
+    21301830: NES - Super Mario Bros - Mario & Luigi_915
+    21301832: NES - Super Mario Bros - Mario & Luigi_916
+    21301834: NES - Super Mario Bros - Mario & Luigi_917
+    21301836: NES - Super Mario Bros - Mario & Luigi_918
+    21301838: NES - Super Mario Bros - Mario & Luigi_919
+    21301840: NES - Super Mario Bros - Mario & Luigi_920
+    21301842: NES - Super Mario Bros - Mario & Luigi_921
+    21301844: NES - Super Mario Bros - Mario & Luigi_922
+    21301846: NES - Super Mario Bros - Mario & Luigi_923
+    21301848: NES - Super Mario Bros - Mario & Luigi_924
+    21301850: NES - Super Mario Bros - Mario & Luigi_925
+    21301852: NES - Super Mario Bros - Mario & Luigi_926
+    21301854: NES - Super Mario Bros - Mario & Luigi_927
+    21301856: NES - Super Mario Bros - Mario & Luigi_928
+    21301858: NES - Super Mario Bros - Mario & Luigi_929
+    21301860: NES - Super Mario Bros - Mario & Luigi_930
+    21301862: NES - Super Mario Bros - Mario & Luigi_931
+    21301864: NES - Super Mario Bros - Mario & Luigi_932
+    21301866: NES - Super Mario Bros - Mario & Luigi_933
+    21301868: NES - Super Mario Bros - Mario & Luigi_934
+    21301870: NES - Super Mario Bros - Mario & Luigi_935
+    21301872: NES - Super Mario Bros - Mario & Luigi_936
+    21301874: NES - Super Mario Bros - Mario & Luigi_937
+    21301876: NES - Super Mario Bros - Mario & Luigi_938
+    21301878: NES - Super Mario Bros - Mario & Luigi_939
+    21301880: NES - Super Mario Bros - Mario & Luigi_940
+    21301882: NES - Super Mario Bros - Mario & Luigi_941
+    21301884: NES - Super Mario Bros - Mario & Luigi_942
+    21301886: NES - Super Mario Bros - Mario & Luigi_943
+    21301888: NES - Super Mario Bros - Mario & Luigi_944
+    21301890: NES - Super Mario Bros - Mario & Luigi_945
+    21301892: NES - Super Mario Bros - Mario & Luigi_946
+    21301894: NES - Super Mario Bros - Mario & Luigi_947
+    21301896: NES - Super Mario Bros - Mario & Luigi_948
+    21301898: NES - Super Mario Bros - Mario & Luigi_949
+    21301900: NES - Super Mario Bros - Mario & Luigi_950
+    21301902: NES - Super Mario Bros - Mario & Luigi_951
+    21301904: NES - Super Mario Bros - Mario & Luigi_952
+    21301906: NES - Super Mario Bros - Mario & Luigi_953
+    21301908: NES - Super Mario Bros - Mario & Luigi_954
+    21301910: NES - Super Mario Bros - Mario & Luigi_955
+    21301912: NES - Super Mario Bros - Mario & Luigi_956
+    21301914: NES - Super Mario Bros - Mario & Luigi_957
+    21301916: NES - Super Mario Bros - Mario & Luigi_958
+    21301918: NES - Super Mario Bros - Mario & Luigi_959
+    21301920: NES - Super Mario Bros - Mario & Luigi_960
+    21301922: NES - Super Mario Bros - Mario & Luigi_961
+    21301924: NES - Super Mario Bros - Mario & Luigi_962
+    21301926: NES - Super Mario Bros - Mario & Luigi_963
+    21301928: NES - Super Mario Bros - Mario & Luigi_964
+    21301930: NES - Super Mario Bros - Mario & Luigi_965
+    21301932: NES - Super Mario Bros - Mario & Luigi_966
+    21301934: NES - Super Mario Bros - Mario & Luigi_967
+    21301936: NES - Super Mario Bros - Mario & Luigi_968
+    21301938: NES - Super Mario Bros - Mario & Luigi_969
+    21301940: NES - Super Mario Bros - Mario & Luigi_970
+    21301942: NES - Super Mario Bros - Mario & Luigi_971
+    21301944: NES - Super Mario Bros - Mario & Luigi_972
+    21301946: NES - Super Mario Bros - Mario & Luigi_973
+    21301948: NES - Super Mario Bros - Mario & Luigi_974
+    21301950: NES - Super Mario Bros - Mario & Luigi_975
+    21301952: NES - Super Mario Bros - Mario & Luigi_976
+    21301954: NES - Super Mario Bros - Mario & Luigi_977
+    21301956: NES - Super Mario Bros - Mario & Luigi_978
+    21301958: NES - Super Mario Bros - Mario & Luigi_979
+    21301960: NES - Super Mario Bros - Mario & Luigi_980
+    21301962: NES - Super Mario Bros - Mario & Luigi_981
+    21301964: NES - Super Mario Bros - Mario & Luigi_982
+    21301966: NES - Super Mario Bros - Mario & Luigi_983
+    21301968: NES - Super Mario Bros - Mario & Luigi_984
+    21301970: NES - Super Mario Bros - Mario & Luigi_985
+    21301972: NES - Super Mario Bros - Mario & Luigi_986
+    21301974: NES - Super Mario Bros - Mario & Luigi_987
+    21301976: NES - Super Mario Bros - Mario & Luigi_988
+    21301978: NES - Super Mario Bros - Mario & Luigi_989
+    21301980: NES - Super Mario Bros - Mario & Luigi_990
+    21301982: NES - Super Mario Bros - Mario & Luigi_991
+    21301984: NES - Super Mario Bros - Mario & Luigi_992
+    21301986: NES - Super Mario Bros - Mario & Luigi_993
+    21301988: NES - Super Mario Bros - Mario & Luigi_994
+    21301990: NES - Super Mario Bros - Mario & Luigi_995
+    21301992: NES - Super Mario Bros - Mario & Luigi_996
+    21301994: NES - Super Mario Bros - Mario & Luigi_997
+    21301996: NES - Super Mario Bros - Mario & Luigi_998
+    21301998: NES - Super Mario Bros - Mario & Luigi_999
+    21302000: NES - Super Mario Bros - Mario & Luigi_1000
+    21302002: NES - Super Mario Bros - Mario & Luigi_1001
+    21302004: NES - Super Mario Bros - Mario & Luigi_1002
+    21302006: NES - Super Mario Bros - Mario & Luigi_1003
+    21302008: NES - Super Mario Bros - Mario & Luigi_1004
+    21302010: NES - Super Mario Bros - Mario & Luigi_1005
+    21302012: NES - Super Mario Bros - Mario & Luigi_1006
+    21302014: NES - Super Mario Bros - Mario & Luigi_1007
+    21302016: NES - Super Mario Bros - Mario & Luigi_1008
+    21302018: NES - Super Mario Bros - Mario & Luigi_1009
+    21302020: NES - Super Mario Bros - Mario & Luigi_1010
+    21302022: NES - Super Mario Bros - Mario & Luigi_1011
+    21302024: NES - Super Mario Bros - Mario & Luigi_1012
+    21302026: NES - Super Mario Bros - Mario & Luigi_1013
+    21302028: NES - Super Mario Bros - Mario & Luigi_1014
+    21302030: NES - Super Mario Bros - Mario & Luigi_1015
+    21302032: NES - Super Mario Bros - Mario & Luigi_1016
+    21302034: NES - Super Mario Bros - Mario & Luigi_1017
+    21302036: NES - Super Mario Bros - Mario & Luigi_1018
+    21302038: NES - Super Mario Bros - Mario & Luigi_1019
+    21302040: NES - Super Mario Bros - Mario & Luigi_1020
+    21302042: NES - Super Mario Bros - Mario & Luigi_1021
+    21302044: NES - Super Mario Bros - Mario & Luigi_1022
+    21302046: NES - Super Mario Bros - Mario & Luigi_1023
+    21302048: NES - Super Mario Bros - Mario & Luigi_1024
+    21302050: NES - Super Mario Bros - Mario & Luigi_1025
+    21302052: NES - Super Mario Bros - Mario & Luigi_1026
+    21302054: NES - Super Mario Bros - Mario & Luigi_1027
+    21302056: NES - Super Mario Bros - Mario & Luigi_1028
+    21302058: NES - Super Mario Bros - Mario & Luigi_1029
+    21302060: NES - Super Mario Bros - Mario & Luigi_1030
+    21302062: NES - Super Mario Bros - Mario & Luigi_1031
+    21302064: NES - Super Mario Bros - Mario & Luigi_1032
+    21302066: NES - Super Mario Bros - Mario & Luigi_1033
+    21302068: NES - Super Mario Bros - Mario & Luigi_1034
+    21302070: NES - Super Mario Bros - Mario & Luigi_1035
+    21302072: NES - Super Mario Bros - Mario & Luigi_1036
+    21302074: NES - Super Mario Bros - Mario & Luigi_1037
+    21302076: NES - Super Mario Bros - Mario & Luigi_1038
+    21302078: NES - Super Mario Bros - Mario & Luigi_1039
+    21302080: NES - Super Mario Bros - Mario & Luigi_1040
+    21302082: NES - Super Mario Bros - Mario & Luigi_1041
+    21302084: NES - Super Mario Bros - Mario & Luigi_1042
+    21302086: NES - Super Mario Bros - Mario & Luigi_1043
+    21302088: NES - Super Mario Bros - Mario & Luigi_1044
+    21302090: NES - Super Mario Bros - Mario & Luigi_1045
+    21302092: NES - Super Mario Bros - Mario & Luigi_1046
+    21302094: NES - Super Mario Bros - Mario & Luigi_1047
+    21302096: NES - Super Mario Bros - Mario & Luigi_1048
+    21302098: NES - Super Mario Bros - Mario & Luigi_1049
+    21302100: NES - Super Mario Bros - Mario & Luigi_1050
+    21302102: NES - Super Mario Bros - Mario & Luigi_1051
+    21302104: NES - Super Mario Bros - Mario & Luigi_1052
+    21302106: NES - Super Mario Bros - Mario & Luigi_1053
+    21302108: NES - Super Mario Bros - Mario & Luigi_1054
+    21302110: NES - Super Mario Bros - Mario & Luigi_1055
+    21302112: NES - Super Mario Bros - Mario & Luigi_1056
+    21302114: NES - Super Mario Bros - Mario & Luigi_1057
+    21302116: NES - Super Mario Bros - Mario & Luigi_1058
+    21302118: NES - Super Mario Bros - Mario & Luigi_1059
+    21302120: NES - Super Mario Bros - Mario & Luigi_1060
+    21302122: NES - Super Mario Bros - Mario & Luigi_1061
+    21302124: NES - Super Mario Bros - Mario & Luigi_1062
+    21302126: NES - Super Mario Bros - Mario & Luigi_1063
+    21302128: NES - Super Mario Bros - Mario & Luigi_1064
+    21302130: NES - Super Mario Bros - Mario & Luigi_1065
+    21302132: NES - Super Mario Bros - Mario & Luigi_1066
+    21302134: Run03
+    21302136: Run02
+    21302138: Jump
+    21302140: NES - Super Mario Bros - Mario & Luigi_0
+    21302142: Middle
+    21302144: BigIdle
+    21302146: Tran2Small01
+    21302148: Tran2Small02
+    21302150: Tran2Small03
+    21302152: NES - Super Mario Bros - Mario & Luigi_1
+    21302154: green
+    21302156: NES - Super Mario Bros - Mario & Luigi_24
+    21302158: BigJump
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 80, y: 637, z: 351, w: 34}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9302063, y: 8}
+        - {x: -3.0846634, y: 8}
+        - {x: -5.3729095, y: 7.5444336}
+        - {x: -5.5268326, y: 5.0650635}
+        - {x: -6.6332474, y: -5.0061035}
+        - {x: -6.0942993, y: -8}
+        - {x: 6.112564, y: -8}
+        - {x: 6.395874, y: -3.161499}
+        - {x: 5.9824066, y: 6.958679}
+      physicsShape: []
+      tessellationDetail: 0.49
+    - serializedVersion: 2
+      name: Run03
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9815063, y: 8}
+        - {x: -6.383423, y: 4.9992676}
+        - {x: -8, y: -0.003967285}
+        - {x: -7.9659576, y: -2.977356}
+        - {x: -7.4536743, y: -7.081787}
+        - {x: -6.096512, y: -8}
+        - {x: -2.9777374, y: -7.9403687}
+        - {x: 7.765976, y: -6.022278}
+        - {x: 6.5195007, y: 7.11499}
+        - {x: 2.0086212, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 607
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 4.5}
+        - {x: -10, y: -4.5}
+        - {x: 10, y: -4.5}
+        - {x: 10, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 607
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 4.5}
+        - {x: -10, y: -4.5}
+        - {x: 10, y: -4.5}
+        - {x: 10, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 544
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 4.5}
+        - {x: -22, y: -4.5}
+        - {x: 22, y: -4.5}
+        - {x: 22, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 4.5}
+        - {x: -8.5, y: -4.5}
+        - {x: 8.5, y: -4.5}
+        - {x: 8.5, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 544
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 4.5}
+        - {x: -22, y: -4.5}
+        - {x: 22, y: -4.5}
+        - {x: 22, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 4.5}
+        - {x: -6, y: -4.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 9}
+        - {x: -18, y: -9}
+        - {x: 17, y: -9}
+        - {x: 18, y: -5}
+        - {x: 18, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 4.5}
+        - {x: -6, y: -4.5}
+        - {x: 6, y: -4.5}
+        - {x: 6, y: 4.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 9}
+        - {x: -26.5, y: -9}
+        - {x: 24.5, y: -9}
+        - {x: 26.5, y: -4}
+        - {x: 26.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 283
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 9}
+        - {x: -26.5, y: -9}
+        - {x: 24.5, y: -9}
+        - {x: 26.5, y: -4}
+        - {x: 26.5, y: 9}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 25.5}
+        - {x: -146.5, y: 25.5}
+        - {x: -211.5, y: 22.5}
+        - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: 0.5}
+        - {x: -222.5, y: -0.5}
+        - {x: -203.5, y: -1.5}
+        - {x: -200.5, y: -1.5}
+        - {x: -152.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 25.5}
+        - {x: -146.5, y: 25.5}
+        - {x: -211.5, y: 22.5}
+        - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: 0.5}
+        - {x: -222.5, y: -0.5}
+        - {x: -203.5, y: -1.5}
+        - {x: -200.5, y: -1.5}
+        - {x: -152.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -156.5, y: -0.5}
+        - {x: -156.5, y: 14.5}
+        - {x: -169.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -156.5, y: -0.5}
+        - {x: -156.5, y: 14.5}
+        - {x: -169.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 447
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -223.5, y: 28.5}
+        - {x: -223.5, y: 12.5}
+        - {x: -154.5, y: -28.5}
+        - {x: 215.5, y: -28.5}
+        - {x: 223.5, y: 7.5}
+        - {x: 223.5, y: 28.5}
+      - - {x: 23.5, y: -20.5}
+        - {x: 22.5, y: -21.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 21.5, y: -22.5}
+      - - {x: 40.5, y: -20.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 37.5, y: -22.5}
+        - {x: 38.5, y: -22.5}
+      - - {x: 90.5, y: -19.5}
+        - {x: 90.5, y: -21.5}
+        - {x: 88.5, y: -22.5}
+        - {x: 89.5, y: -22.5}
+      - - {x: 97.5, y: -11.5}
+        - {x: 107.5, y: -11.5}
+        - {x: 107.5, y: -21.5}
+        - {x: 97.5, y: -21.5}
+      - - {x: 114.5, y: -11.5}
+        - {x: 124.5, y: -11.5}
+        - {x: 124.5, y: -21.5}
+        - {x: 114.5, y: -21.5}
+      - - {x: 131.5, y: -11.5}
+        - {x: 141.5, y: -11.5}
+        - {x: 141.5, y: -21.5}
+        - {x: 131.5, y: -21.5}
+      - - {x: 148.5, y: -11.5}
+        - {x: 158.5, y: -11.5}
+        - {x: 158.5, y: -21.5}
+        - {x: 148.5, y: -21.5}
+      - - {x: 165.5, y: -11.5}
+        - {x: 175.5, y: -11.5}
+        - {x: 175.5, y: -21.5}
+        - {x: 165.5, y: -21.5}
+      - - {x: 182.5, y: -11.5}
+        - {x: 192.5, y: -11.5}
+        - {x: 192.5, y: -21.5}
+        - {x: 182.5, y: -21.5}
+      - - {x: 199.5, y: -11.5}
+        - {x: 209.5, y: -11.5}
+        - {x: 209.5, y: -21.5}
+        - {x: 199.5, y: -21.5}
+      - - {x: -62.5, y: -1.5}
+        - {x: -64.5, y: -4.5}
+      - - {x: -22.5, y: -3.5}
+        - {x: -19.5, y: -6.5}
+        - {x: -18.5, y: -5.5}
+        - {x: -21.5, y: -4.5}
+      - - {x: 21.5, y: -4.5}
+        - {x: 22.5, y: -4.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 19.5, y: -5.5}
+      - - {x: 38.5, y: -4.5}
+        - {x: 39.5, y: -4.5}
+        - {x: 36.5, y: -4.5}
+        - {x: 36.5, y: -5.5}
+      - - {x: 55.5, y: -4.5}
+        - {x: 56.5, y: -4.5}
+        - {x: 52.5, y: -5.5}
+        - {x: 53.5, y: -5.5}
+      - - {x: 72.5, y: -4.5}
+        - {x: 73.5, y: -4.5}
+        - {x: 70.5, y: -4.5}
+        - {x: 70.5, y: -5.5}
+      - - {x: 89.5, y: -4.5}
+        - {x: 90.5, y: -4.5}
+        - {x: 86.5, y: -5.5}
+        - {x: 87.5, y: -5.5}
+      - - {x: 106.5, y: -4.5}
+        - {x: 107.5, y: -4.5}
+        - {x: 104.5, y: -4.5}
+        - {x: 104.5, y: -5.5}
+      - - {x: 192.5, y: -2.5}
+        - {x: 192.5, y: -1.5}
+        - {x: 192.5, y: -4.5}
+        - {x: 190.5, y: -4.5}
+      - - {x: -223.5, y: 21.5}
+        - {x: -223.5, y: -0.5}
+        - {x: -175.5, y: -0.5}
+        - {x: -170.5, y: 0.5}
+        - {x: -168.5, y: 6.5}
+        - {x: -168.5, y: 21.5}
+      - - {x: -38.5, y: 21.5}
+        - {x: -28.5, y: 21.5}
+        - {x: -27.5, y: 13.5}
+        - {x: -26.5, y: 14.5}
+        - {x: -29.5, y: 17.5}
+        - {x: -34.5, y: 17.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -40.5, y: 12.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -38.5, y: 11.5}
+      - - {x: 114.5, y: 21.5}
+        - {x: 124.5, y: 21.5}
+        - {x: 124.5, y: 16.5}
+        - {x: 125.5, y: 16.5}
+        - {x: 122.5, y: 19.5}
+        - {x: 117.5, y: 19.5}
+        - {x: 113.5, y: 16.5}
+        - {x: 114.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Run02
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0148087, y: 8}
+        - {x: -2.9703827, y: 8}
+        - {x: -6.323204, y: 6.350342}
+        - {x: -5.1811066, y: -5.407837}
+        - {x: -2.9967117, y: -8}
+        - {x: 1.0034866, y: -7.977417}
+        - {x: 6.1116943, y: -6.85791}
+        - {x: 6.3231964, y: 7.1539917}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Run01
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0922165, y: 7.5389404}
+        - {x: -3.953888, y: 7.2161865}
+        - {x: -7, y: 4}
+        - {x: -6.8934326, y: 0.86169434}
+        - {x: -7.308403, y: -7.4467163}
+        - {x: -2.039383, y: -8}
+        - {x: 1.9712982, y: -8}
+        - {x: 6.2018356, y: -0.82995605}
+        - {x: 6.5706863, y: 5.7233887}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.016159, y: 8}
+        - {x: -3.2862854, y: 6.9919434}
+        - {x: -8, y: -2.1350708}
+        - {x: -7.9999847, y: -4.1188354}
+        - {x: -7.1320343, y: -8}
+        - {x: 0.035736084, y: -7.9658203}
+        - {x: 8, y: -6.0601196}
+        - {x: 8, y: 8}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 626
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -4}
+        - {x: 7.5, y: -4}
+        - {x: 7.5, y: 1}
+        - {x: -7.5, y: 1}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Middle
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 654
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 10}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigIdle
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 654
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0430756, y: 16}
+        - {x: -6.700981, y: 14.397766}
+        - {x: -8, y: -1.2197876}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: -1.1008301}
+        - {x: 6.598053, y: 14.39917}
+        - {x: 3.094574, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tran2Small01
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 654
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tran2Small02
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 637
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Tran2Small03
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 654
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 622
+        width: 1
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: green
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 572
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Test
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 509
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BigJump
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 654
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - Super Mario Bros - Mario & Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 632
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -223.5, y: -288.5}
+      - {x: -146.5, y: -343.5}
+      - {x: 215.5, y: -343.5}
+      - {x: 223.5, y: -307.5}
+      - {x: 223.5, y: -283.5}
+      - {x: -223.5, y: -283.5}
+    - - {x: -223.5, y: -292.5}
+      - {x: -223.5, y: -314.5}
+      - {x: -175.5, y: -314.5}
+      - {x: -170.5, y: -313.5}
+      - {x: -168.5, y: -307.5}
+      - {x: -168.5, y: -292.5}
+    - - {x: -223.5, y: -225.5}
+      - {x: -145.5, y: -281.5}
+      - {x: 215.5, y: -281.5}
+      - {x: 223.5, y: -244.5}
+      - {x: 223.5, y: -220.5}
+      - {x: -223.5, y: -220.5}
+    - - {x: -223.5, y: -229.5}
+      - {x: -223.5, y: -251.5}
+      - {x: -171.5, y: -251.5}
+      - {x: -168.5, y: -249.5}
+      - {x: -168.5, y: -230.5}
+      - {x: -171.5, y: -229.5}
+    - - {x: -223.5, y: -162.5}
+      - {x: -152.5, y: -218.5}
+      - {x: 215.5, y: -218.5}
+      - {x: 223.5, y: -180.5}
+      - {x: 223.5, y: -157.5}
+      - {x: -223.5, y: -157.5}
+    - - {x: -223.5, y: -166.5}
+      - {x: -223.5, y: -188.5}
+      - {x: -156.5, y: -188.5}
+      - {x: -156.5, y: -175.5}
+      - {x: -167.5, y: -166.5}
+    - - {x: -223.5, y: -99.5}
+      - {x: -146.5, y: -99.5}
+      - {x: -223.5, y: -102.5}
+      - {x: -223.5, y: -124.5}
+      - {x: -222.5, y: -125.5}
+      - {x: -203.5, y: -126.5}
+      - {x: -150.5, y: -155.5}
+      - {x: 215.5, y: -155.5}
+      - {x: 223.5, y: -117.5}
+      - {x: 223.5, y: -94.5}
+      - {x: -223.5, y: -94.5}
+    - - {x: -223.5, y: -31.5}
+      - {x: -223.5, y: -48.5}
+      - {x: -180.5, y: -92.5}
+      - {x: 215.5, y: -92.5}
+      - {x: 223.5, y: -88.5}
+      - {x: 223.5, y: -31.5}
+    - - {x: -223.5, y: -40.5}
+      - {x: -223.5, y: -61.5}
+      - {x: -222.5, y: -62.5}
+      - {x: -170.5, y: -62.5}
+      - {x: -167.5, y: -60.5}
+      - {x: -167.5, y: -41.5}
+      - {x: -168.5, y: -40.5}
+    - - {x: -223.5, y: 31.5}
+      - {x: -223.5, y: 26.5}
+      - {x: -144.5, y: -29.5}
+      - {x: 215.5, y: -29.5}
+      - {x: 223.5, y: 8.5}
+      - {x: 223.5, y: 31.5}
+    - - {x: -223.5, y: 22.5}
+      - {x: -223.5, y: 0.5}
+      - {x: -169.5, y: 0.5}
+      - {x: -168.5, y: 4.5}
+      - {x: -168.5, y: 20.5}
+      - {x: -171.5, y: 22.5}
+    - - {x: -223.5, y: 94.5}
+      - {x: -223.5, y: 89.5}
+      - {x: -144.5, y: 33.5}
+      - {x: 215.5, y: 33.5}
+      - {x: 223.5, y: 71.5}
+      - {x: 223.5, y: 94.5}
+    - - {x: -223.5, y: 85.5}
+      - {x: -223.5, y: 63.5}
+      - {x: -169.5, y: 63.5}
+      - {x: -168.5, y: 67.5}
+      - {x: -168.5, y: 83.5}
+      - {x: -171.5, y: 85.5}
+    - - {x: -223.5, y: 157.5}
+      - {x: -223.5, y: 152.5}
+      - {x: -144.5, y: 96.5}
+      - {x: 215.5, y: 96.5}
+      - {x: 223.5, y: 134.5}
+      - {x: 223.5, y: 157.5}
+    - - {x: -223.5, y: 148.5}
+      - {x: -223.5, y: 126.5}
+      - {x: -188.5, y: 126.5}
+      - {x: -168.5, y: 135.5}
+      - {x: -168.5, y: 146.5}
+      - {x: -171.5, y: 148.5}
+    - - {x: -223.5, y: 220.5}
+      - {x: -223.5, y: 215.5}
+      - {x: -144.5, y: 159.5}
+      - {x: 215.5, y: 159.5}
+      - {x: 223.5, y: 197.5}
+      - {x: 223.5, y: 220.5}
+    - - {x: -223.5, y: 211.5}
+      - {x: -223.5, y: 198.5}
+      - {x: -157.5, y: 198.5}
+      - {x: -157.5, y: 211.5}
+    - - {x: -223.5, y: 283.5}
+      - {x: -223.5, y: 268.5}
+      - {x: -144.5, y: 222.5}
+      - {x: 215.5, y: 222.5}
+      - {x: 223.5, y: 260.5}
+      - {x: 223.5, y: 283.5}
+    - - {x: -193.5, y: 261.5}
+      - {x: -169.5, y: 261.5}
+      - {x: -169.5, y: 274.5}
+      - {x: -193.5, y: 274.5}
+    - - {x: -146.5, y: 343.5}
+      - {x: -146.5, y: 287.5}
+      - {x: 18.5, y: 287.5}
+      - {x: 213.5, y: 290.5}
+      - {x: 215.5, y: 292.5}
+      - {x: 215.5, y: 343.5}
+    - - {x: -193.5, y: 337.5}
+      - {x: -193.5, y: 324.5}
+      - {x: -169.5, y: 324.5}
+      - {x: -168.5, y: 326.5}
+      - {x: -168.5, y: 336.5}
+      - {x: -170.5, y: 337.5}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
